@@ -8,3 +8,6 @@ Things We Want to Learn at LBL
 * Best practices for keeping code clean/readable
 * Also keeping code clean and readable
 * plots in python
+* Python
+* Already covered version control
+* Is there a convenient way to add existing (large) directories with code
