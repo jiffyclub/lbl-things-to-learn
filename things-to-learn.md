@@ -5,5 +5,3 @@ Everyone's names
 
 Jennifer's edit
 
-My Edit
-
