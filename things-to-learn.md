@@ -12,3 +12,7 @@ Things We Want to Learn at LBL
 * Python
 * Already covered version control
 * Is there a convenient way to add existing (large) directories with code
+* Differences between git and svn
+* Understand internals of git
+* To learn the reset HEAD option
+* Testing git pull
